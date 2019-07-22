@@ -1,0 +1,14 @@
+﻿  APA.cpp
+c:\users\banana\documents\visual studio 2015\projects\apa\apa\apa.cpp(4): error C2855: параметр командной строки "/source-charset" несовместим с предкомпилированным заголовком
+c:\users\banana\documents\visual studio 2015\projects\apa\apa\apa.cpp(4): error C2855: параметр командной строки "/execution-charset" несовместим с предкомпилированным заголовком
+c:\users\banana\documents\visual studio 2015\projects\apa\apa\apa.cpp(29): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\banana\documents\visual studio 2015\projects\apa\apa\apa.cpp(111): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\banana\documents\visual studio 2015\projects\apa\apa\apa.cpp(126): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\banana\documents\visual studio 2015\projects\apa\apa\apa.cpp(143): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\banana\documents\visual studio 2015\projects\apa\apa\apa.cpp(151): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\banana\documents\visual studio 2015\projects\apa\apa\apa.cpp(174): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\banana\documents\visual studio 2015\projects\apa\apa\apa.cpp(175): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\banana\documents\visual studio 2015\projects\apa\apa\apa.cpp(204): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\banana\documents\visual studio 2015\projects\apa\apa\apa.cpp(230): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\banana\documents\visual studio 2015\projects\apa\apa\apa.cpp(281): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\banana\documents\visual studio 2015\projects\apa\apa\apa.cpp(422): warning C4018: <: несоответствие типов со знаком и без знака

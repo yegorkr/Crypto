@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  APA.cpp
+APA.cpp(29): warning C4018: <: несоответствие типов со знаком и без знака
+APA.cpp(111): warning C4018: <: несоответствие типов со знаком и без знака
+APA.cpp(126): warning C4018: <: несоответствие типов со знаком и без знака
+APA.cpp(143): warning C4018: <: несоответствие типов со знаком и без знака
+APA.cpp(151): warning C4018: <: несоответствие типов со знаком и без знака
+APA.cpp(174): warning C4018: <=: несоответствие типов со знаком и без знака
+APA.cpp(175): warning C4018: >=: несоответствие типов со знаком и без знака
+APA.cpp(204): warning C4018: <=: несоответствие типов со знаком и без знака
+APA.cpp(230): warning C4018: <=: несоответствие типов со знаком и без знака
+APA.cpp(281): warning C4018: >: несоответствие типов со знаком и без знака
+APA.cpp(422): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  All 347 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  APA.vcxproj -> C:\Users\Banana\Documents\Visual Studio 2015\Projects\APA\Release\APA.exe
+  APA.vcxproj -> C:\Users\Banana\Documents\Visual Studio 2015\Projects\APA\Release\APA.pdb (Full PDB)
